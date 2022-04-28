@@ -13,8 +13,11 @@ The result was a fully operational web-based deep learning chatbot that interpre
 ![chphoto](https://github.com/OmarQasem94/ChatbotMD/blob/main/media/chphoto.png)
 
 link to powerpoint presentation.
+![video1936792327](https://github.com/OmarQasem94/ChatbotMD/blob/main/media/video1936792327.mp4)
+
 
 link to video of presentation.
+![cbpp](https://github.com/OmarQasem94/ChatbotMD/blob/main/cbpp.pptm)
 
 ## **Summary**
 
