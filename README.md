@@ -10,7 +10,7 @@ This project is aimed at creating a web-based deep learning chatbot that utilise
 
 The result was a fully operational web-based deep learning chatbot that interprets user input and respond accordingly.
 
-![chphoto](https://github.com/OmarQasem94/Amazon_Vine_Analysis/blob/main/images/percentage_non_five-star_reviews.PNG)
+![chphoto](https://github.com/OmarQasem94/ChatbotMD/blob/main/media/chphoto.png)
 
 link to powerpoint presentation.
 
